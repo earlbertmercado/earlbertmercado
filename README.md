@@ -4,4 +4,4 @@
 
 ### Hi!!👋
 
-I'm Earlbert from Philippines, currently in my 4th year of studying BS Computer Engineering at Batangas State University.
+I'm Earlbert from Philippines, a Computer Engineering graduate at Batangas State University.
