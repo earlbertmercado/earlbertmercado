@@ -1,1 +1,4 @@
-
+- **💼 Currently working as:** QA/Test Analyst
+- **🔧 Test Automation Tools:** ReadyAPI, Katalon, Postman
+- **💻 Programming Language:** Groovy
+- **🗂️ Version Control:** Git + GitHub/BitBucket
