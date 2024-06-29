@@ -1,4 +1,4 @@
-**Hello! I'm <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Earl</a>.**
+**Hello! I'm Earl.**
 
 I'm currently working as QA/Test Analyst at <a href="https://www.royalcaribbeangroup.com">Royal Caribbean Group</a>.
 
